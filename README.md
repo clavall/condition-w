@@ -1,7 +1,7 @@
-Social Media Ostracism: This is Condition 3
+Social Media Ostracism: This is Condition 0
 ===========
 
-In condition 3 the user recieves 0 likes and 6 dislikes.
+In condition 0 the user recieves 11 likes and 0 dislikes.
 
 Documentation
 ===========
